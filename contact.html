@@ -3,9 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <title>Mind Me</title>
+    <link rel="stylesheet" href="index.css">
+
 </head>
 <body>
 
+<div class="container">
+    <a href="#home">Home</a>
+    <div class="dropdown">
+        <button class="dropbtn">About</button>
+        <div class="dropdown-content">
+            <a href="#">What we do</a>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">Services</button>
+        <div class="dropdown-content">
+            <a href="#">Home Clean</a>
+        </div>
+    </div>
+    <a href="#news">Contact</a>
+    <a href="#news">Quoting</a>
+
+</div>
+
+<div class="panel-beater">
+    <p>
+        Thanks for choosing Enviro Clean to supply your everyday cleaning needs!
+    </p>
+    <p>
+        Please fill out our quote form below!
+
+    </p>
+
+</div>
+
+<div class="quote-form">
+    <form>
+        Name:<br>
+        <input type="text" name="firstname"><br>
+        Email:<br>
+        <input type="text" name="email"><br>
+        Contact Number:<br>
+        <input type="number" name="number">
+    </form>
+
+    <form>
+        Frequency of clean:<br>
+        <input type="radio" name="clean" value="weekly" checked> Weekly<br>
+        <input type="radio" name="clean" value="fortnightly"> Fornightly<br>
+        <input type="radio" name="clean" value="monthly"> Monthly<br>
+        <input type="radio" name="clean" value="once off"> Once off<br>
+    </form>
+
+    <input type="submit" value="Submit">
+
+</div>
 
 
 </body>
