@@ -480,15 +480,31 @@ body .subtext {
   position: relative;
   top: 1.315789474%;
   left: 1.315789474%;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 
 #quotationsPane #messageBox p.from {
   font-weight: bold;
 }
+
 #quotationsPane #messageBox span.sender {
   font-weight: normal;
 }
+
+#quotationsPane #reply {
+  position: relative;
+  left: 1.315789474%;
+}
+#quotationsPane #quote {
+  position: relative;
+  left: 1.315789474%;
+}
+#replyBox {
+  display: none;
+  position: relative;
+  left: 1.315789474%;
+}
+
 /* To Here*/
 #pageContents {
     min-height: 550px;
