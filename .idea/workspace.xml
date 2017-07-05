@@ -4,6 +4,7 @@
     <list default="true" id="6f3f8eb6-7af9-4aa7-872c-eb578cb4146e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm" afterPath="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/application-c27c3c58507080316413c22139bf2196.css" afterPath="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/application-c27c3c58507080316413c22139bf2196.css" />
     </list>
     <ignored path="MIND-ME.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,48 +24,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.css">
+      <file leaf-file-name="MYOB Essentials - Dashboard.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="164">
+              <caret line="530" column="0" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
+              <folding>
+                <element signature="e#58298#91569#1" expanded="true" />
+                <element signature="e#91720#125819#1" expanded="true" />
+                <element signature="e#284921#327364#1" expanded="true" />
+                <element signature="e#327597#337742#1" expanded="true" />
+                <element signature="e#338030#338034#0" expanded="true" />
+                <element signature="e#338157#338161#0" expanded="true" />
+                <element signature="e#338161#338165#0" expanded="true" />
+                <element signature="e#338172#338176#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#343658#343664#0" expanded="true" />
+                <element signature="e#349294#349300#0" expanded="true" />
+                <element signature="e#353978#353984#0" expanded="true" />
+                <element signature="e#358722#358728#0" expanded="true" />
+                <element signature="e#360611#360617#0" expanded="true" />
+                <element signature="e#364775#364781#0" expanded="true" />
+                <element signature="e#366572#366577#0" expanded="true" />
+                <element signature="e#369053#369059#0" expanded="true" />
+                <element signature="e#383815#383821#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#397272#397276#0" expanded="true" />
+                <element signature="e#397373#397378#0" expanded="true" />
+                <element signature="e#397393#397398#0" expanded="true" />
+                <element signature="e#397413#397417#0" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MYOB Essentials - Dashboard.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm">
+      <file leaf-file-name="application-c27c3c58507080316413c22139bf2196.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/application-c27c3c58507080316413c22139bf2196.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="1251" column="9" lean-forward="true" selection-start-line="1251" selection-start-column="9" selection-end-line="1251" selection-end-column="9" />
-              <folding>
-                <marker date="1499153744772" expanded="true" signature="126691:126751" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="127260:127320" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="128096:128156" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="128612:128672" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="128943:129003" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="129590:129650" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="130479:130539" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="131534:131594" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="132147:132207" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="132762:132822" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="133467:133527" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="134134:134194" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="146562:146622" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="161885:161945" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="163834:163894" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="164610:164670" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="174018:174078" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="176251:176311" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="176942:177002" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="180750:180810" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="181589:181649" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="182436:182496" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="183295:183355" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="184170:184230" ph="{...}" />
-                <marker date="1499153744772" expanded="true" signature="189308:189368" ph="{...}" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/proxy.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,6 +108,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm" />
+        <option value="$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/application-c27c3c58507080316413c22139bf2196.css" />
       </list>
     </option>
   </component>
@@ -113,10 +119,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -133,9 +147,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotation_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIND-ME" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotation_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MYOB Essentials - Dashboard_files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +263,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -221,6 +286,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6f3f8eb6-7af9-4aa7-872c-eb578cb4146e" name="Default" comment="" />
@@ -231,11 +299,12 @@
       <workItem from="1498691347513" duration="1320000" />
       <workItem from="1498693271751" duration="876000" />
       <workItem from="1499149146349" duration="1095000" />
+      <workItem from="1499155195239" duration="1906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3291000" />
+    <option name="totallyTimeSpent" value="5197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,13 +316,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5013928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -290,15 +359,53 @@
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#58298#91569#1" expanded="true" />
+            <element signature="e#91720#125819#1" expanded="true" />
+            <element signature="e#284921#327364#1" expanded="true" />
+            <element signature="e#327597#337742#1" expanded="true" />
+            <element signature="e#338030#338034#0" expanded="true" />
+            <element signature="e#338157#338161#0" expanded="true" />
+            <element signature="e#338161#338165#0" expanded="true" />
+            <element signature="e#338172#338176#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#343658#343664#0" expanded="true" />
+            <element signature="e#349294#349300#0" expanded="true" />
+            <element signature="e#353978#353984#0" expanded="true" />
+            <element signature="e#358722#358728#0" expanded="true" />
+            <element signature="e#360611#360617#0" expanded="true" />
+            <element signature="e#364775#364781#0" expanded="true" />
+            <element signature="e#366572#366577#0" expanded="true" />
+            <element signature="e#369053#369059#0" expanded="true" />
+            <element signature="e#383815#383821#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#397272#397276#0" expanded="true" />
+            <element signature="e#397373#397378#0" expanded="true" />
+            <element signature="e#397393#397398#0" expanded="true" />
+            <element signature="e#397413#397417#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/proxy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -306,7 +413,31 @@
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/proxy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -314,33 +445,37 @@
     <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20893">
-          <caret line="1229" column="33" lean-forward="false" selection-start-line="1229" selection-start-column="33" selection-end-line="1229" selection-end-column="33" />
+          <caret line="1229" column="33" selection-start-line="1229" selection-start-column="33" selection-end-line="1229" selection-end-column="33" />
           <folding>
-            <marker date="1499153744772" expanded="true" signature="126691:126751" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="127260:127320" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128096:128156" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128612:128672" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128943:129003" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="129590:129650" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="130479:130539" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="131534:131594" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="132147:132207" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="132762:132822" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="133467:133527" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="134134:134194" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="146562:146622" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="161885:161945" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="163834:163894" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="164610:164670" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="174018:174078" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="176251:176311" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="176942:177002" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="180750:180810" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="181589:181649" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="182436:182496" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="183295:183355" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="184170:184230" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="189308:189368" ph="{...}" />
+            <element signature="e#58298#91569#1" expanded="true" />
+            <element signature="e#91720#125819#1" expanded="true" />
+            <element signature="e#284921#327364#1" expanded="true" />
+            <element signature="e#327597#337742#1" expanded="true" />
+            <element signature="e#338030#338034#0" expanded="true" />
+            <element signature="e#338157#338161#0" expanded="true" />
+            <element signature="e#338161#338165#0" expanded="true" />
+            <element signature="e#338172#338176#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#343658#343664#0" expanded="true" />
+            <element signature="e#349294#349300#0" expanded="true" />
+            <element signature="e#353978#353984#0" expanded="true" />
+            <element signature="e#358722#358728#0" expanded="true" />
+            <element signature="e#360611#360617#0" expanded="true" />
+            <element signature="e#364775#364781#0" expanded="true" />
+            <element signature="e#366572#366577#0" expanded="true" />
+            <element signature="e#369053#369059#0" expanded="true" />
+            <element signature="e#383815#383821#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#397272#397276#0" expanded="true" />
+            <element signature="e#397373#397378#0" expanded="true" />
+            <element signature="e#397393#397398#0" expanded="true" />
+            <element signature="e#397413#397417#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,7 +483,7 @@
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -356,7 +491,7 @@
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -364,15 +499,7 @@
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -380,41 +507,69 @@
     <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/proxy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="120" column="18" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard_files/application-c27c3c58507080316413c22139bf2196.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotation_page/MYOB Essentials - Dashboard.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="1251" column="9" lean-forward="true" selection-start-line="1251" selection-start-column="9" selection-end-line="1251" selection-end-column="9" />
+        <state relative-caret-position="164">
+          <caret line="530" column="0" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
           <folding>
-            <marker date="1499153744772" expanded="true" signature="126691:126751" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="127260:127320" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128096:128156" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128612:128672" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="128943:129003" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="129590:129650" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="130479:130539" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="131534:131594" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="132147:132207" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="132762:132822" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="133467:133527" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="134134:134194" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="146562:146622" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="161885:161945" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="163834:163894" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="164610:164670" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="174018:174078" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="176251:176311" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="176942:177002" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="180750:180810" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="181589:181649" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="182436:182496" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="183295:183355" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="184170:184230" ph="{...}" />
-            <marker date="1499153744772" expanded="true" signature="189308:189368" ph="{...}" />
+            <element signature="e#58298#91569#1" expanded="true" />
+            <element signature="e#91720#125819#1" expanded="true" />
+            <element signature="e#284921#327364#1" expanded="true" />
+            <element signature="e#327597#337742#1" expanded="true" />
+            <element signature="e#338030#338034#0" expanded="true" />
+            <element signature="e#338157#338161#0" expanded="true" />
+            <element signature="e#338161#338165#0" expanded="true" />
+            <element signature="e#338172#338176#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#343658#343664#0" expanded="true" />
+            <element signature="e#349294#349300#0" expanded="true" />
+            <element signature="e#353978#353984#0" expanded="true" />
+            <element signature="e#358722#358728#0" expanded="true" />
+            <element signature="e#360611#360617#0" expanded="true" />
+            <element signature="e#364775#364781#0" expanded="true" />
+            <element signature="e#366572#366577#0" expanded="true" />
+            <element signature="e#369053#369059#0" expanded="true" />
+            <element signature="e#383815#383821#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#397272#397276#0" expanded="true" />
+            <element signature="e#397373#397378#0" expanded="true" />
+            <element signature="e#397393#397398#0" expanded="true" />
+            <element signature="e#397413#397417#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
