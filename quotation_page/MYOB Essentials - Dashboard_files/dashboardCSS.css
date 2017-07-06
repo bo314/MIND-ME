@@ -518,11 +518,18 @@ body .subtext {
 #quotationsPane #mindy {
   position: relative;
   width: 289px;
-  min-height: 342px;
+  height: 295px;
   left: 10px;
   top: 50px;
   border: 1px solid #dcdfe1;
   float: left;
+}
+
+#quotationsPane #scheduler {
+  position: relative;
+  top: 10px;
+  max-height: 300px;
+  left: 1.315789474%;
 }
 
 /* To Here*/
